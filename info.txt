@@ -1,0 +1,12 @@
+https://youtu.be/nGhKIC_7Mkk?si=LawKrKvz5paUV3G1
+
+Border box
+used to create a box which includes the height, width and padding all at same time
+
+Query1
+how to make the be in same way it is even on shrinking the window as much as possible?
+Query2
+difference between inline and inline-block?
+
+align-items:flex end****read
+flex-wrap:wrap;
